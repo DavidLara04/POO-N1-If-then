@@ -14,6 +14,10 @@ public class Persona {
     }
 }
 
--Uso
-Persona p1 = new Persona(20);
-p1.verificarMayorEdad();
+-Uso en el método main
+public class Main {
+    public static void main(String[] args) {
+        Persona persona1 = new Persona(20);
+        persona1.verificarMayorEdad();
+    }
+}
