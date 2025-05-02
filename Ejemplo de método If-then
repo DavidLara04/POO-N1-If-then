@@ -1,0 +1,5 @@
+-Ejemplo de método If-then
+
+if (persona.getEdad() >= 18) {
+    System.out.println("Es mayor de edad.");
+}
